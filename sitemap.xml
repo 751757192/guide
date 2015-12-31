@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://aotu.io/guide/docs/html/note.html</loc>
+    <lastmod>2015-12-31T06:37:18.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aotu.io/guide/docs/css/code.html</loc>
+    <lastmod>2015-12-31T06:37:18.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aotu.io/guide/docs/name/classname.html</loc>
+    <lastmod>2015-12-31T06:37:18.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aotu.io/guide/docs/html/webapp.html</loc>
+    <lastmod>2015-12-31T06:37:18.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aotu.io/guide/docs/html/template.html</loc>
+    <lastmod>2015-12-31T06:37:18.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aotu.io/guide/index.html</loc>
+    <lastmod>2015-12-31T06:37:18.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aotu.io/guide/docs/html/code.html</loc>
+    <lastmod>2015-12-31T06:37:18.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aotu.io/guide/docs/css/note.html</loc>
+    <lastmod>2015-12-31T06:37:18.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aotu.io/guide/docs/css/sass.html</loc>
+    <lastmod>2015-12-31T06:37:18.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://aotu.io/guide/docs/css/webkit.html</loc>
     <lastmod>2015-12-17T06:26:48.000Z</lastmod>
   </url>
   
   <url>
     <loc>http://aotu.io/guide/docs/image/format.html</loc>
-    <lastmod>2015-12-16T09:49:06.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aotu.io/guide/themes/index.html</loc>
-    <lastmod>2015-12-16T09:49:06.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aotu.io/guide/plugins/index.html</loc>
-    <lastmod>2015-12-16T09:49:06.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aotu.io/guide/index.html</loc>
-    <lastmod>2015-12-16T09:49:06.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aotu.io/guide/docs/name/jdc_fd_guide_name.html</loc>
-    <lastmod>2015-12-16T09:49:06.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aotu.io/guide/docs/name/image.html</loc>
-    <lastmod>2015-12-16T09:49:06.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aotu.io/guide/docs/name/htmlcss.html</loc>
-    <lastmod>2015-12-16T09:49:06.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aotu.io/guide/docs/name/dir.html</loc>
-    <lastmod>2015-12-16T09:49:06.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aotu.io/guide/docs/name/classname.html</loc>
-    <lastmod>2015-12-16T09:49:06.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aotu.io/guide/docs/issues.html</loc>
     <lastmod>2015-12-16T09:49:06.000Z</lastmod>
   </url>
   
@@ -87,27 +87,7 @@
   </url>
   
   <url>
-    <loc>http://aotu.io/guide/docs/html/webapp.html</loc>
-    <lastmod>2015-12-16T09:49:06.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aotu.io/guide/docs/html/template.html</loc>
-    <lastmod>2015-12-16T09:49:06.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aotu.io/guide/docs/html/note.html</loc>
-    <lastmod>2015-12-16T09:49:06.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aotu.io/guide/docs/html/jdc_fd_web_final_2.html</loc>
-    <lastmod>2015-12-16T09:49:06.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aotu.io/guide/docs/html/code.html</loc>
+    <loc>http://aotu.io/guide/plugins/index.html</loc>
     <lastmod>2015-12-16T09:49:06.000Z</lastmod>
   </url>
   
@@ -117,7 +97,27 @@
   </url>
   
   <url>
-    <loc>http://aotu.io/guide/docs/css/sass.html</loc>
+    <loc>http://aotu.io/guide/docs/name/jdc_fd_guide_name.html</loc>
+    <lastmod>2015-12-16T09:49:06.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aotu.io/guide/docs/html/jdc_fd_web_final_2.html</loc>
+    <lastmod>2015-12-16T09:49:06.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aotu.io/guide/docs/name/image.html</loc>
+    <lastmod>2015-12-16T09:49:06.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aotu.io/guide/docs/name/htmlcss.html</loc>
+    <lastmod>2015-12-16T09:49:06.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aotu.io/guide/docs/name/dir.html</loc>
     <lastmod>2015-12-16T09:49:06.000Z</lastmod>
   </url>
   
@@ -132,7 +132,7 @@
   </url>
   
   <url>
-    <loc>http://aotu.io/guide/docs/css/note.html</loc>
+    <loc>http://aotu.io/guide/themes/index.html</loc>
     <lastmod>2015-12-16T09:49:06.000Z</lastmod>
   </url>
   
@@ -142,7 +142,7 @@
   </url>
   
   <url>
-    <loc>http://aotu.io/guide/docs/css/code.html</loc>
+    <loc>http://aotu.io/guide/docs/issues.html</loc>
     <lastmod>2015-12-16T09:49:06.000Z</lastmod>
   </url>
   
