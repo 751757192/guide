@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Aotu.io - 前端代码规范]]></title>
   <subtitle><![CDATA[Front-End Coding Guidelines]]></subtitle>
-  <link href="/guide/atom.xml" rel="self"/>
-  <link href="http://aotu.io/guide/"/>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://guide.aotu.io/"/>
   <updated>2015-12-16T09:49:06.000Z</updated>
-  <id>http://aotu.io/guide/</id>
+  <id>http://guide.aotu.io/</id>
   
   <author>
     <name><![CDATA[凹凸实验室]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[V1.0.0 Beta Released]]></title>
-    <link href="http://aotu.io/guide/news/2015/11/15/beta-released/"/>
-    <id>http://aotu.io/guide/news/2015/11/15/beta-released/</id>
+    <link href="http://guide.aotu.io/news/2015/11/15/beta-released/"/>
+    <id>http://guide.aotu.io/news/2015/11/15/beta-released/</id>
     <published>2015-11-15T00:00:00.000Z</published>
     <updated>2015-12-16T09:49:06.000Z</updated>
     <content type="html"><![CDATA[<p><code>MAC全栈开发环境搭建指南</code> 中英双语V1.0.0 Beta版本发布。感谢各位开源贡献人员。</p>
@@ -39,8 +39,8 @@
   
   <entry>
     <title><![CDATA[V1.0.0 Preview (预览版)]]></title>
-    <link href="http://aotu.io/guide/news/2015/11/13/first-released/"/>
-    <id>http://aotu.io/guide/news/2015/11/13/first-released/</id>
+    <link href="http://guide.aotu.io/news/2015/11/13/first-released/"/>
+    <id>http://guide.aotu.io/news/2015/11/13/first-released/</id>
     <published>2015-11-13T00:00:00.000Z</published>
     <updated>2015-12-16T09:49:06.000Z</updated>
     <content type="html"><![CDATA[<p><code>MAC全栈开发环境搭建指南</code> 中文预览版发布。感谢各位开源贡献人员。</p>
